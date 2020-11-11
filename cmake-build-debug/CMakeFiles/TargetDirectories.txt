@@ -1,0 +1,15 @@
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/CMakeFiles/redis-cli.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/CMakeFiles/redis-server.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/CMakeFiles/edit_cache.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/hiredis/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/hiredis/CMakeFiles/edit_cache.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/hiredis/CMakeFiles/hiredis.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/linenoise/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/linenoise/CMakeFiles/edit_cache.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/linenoise/CMakeFiles/linenoise.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/lua/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/lua/CMakeFiles/edit_cache.dir
+/cygdrive/e/idea/project/redis-source/redis4.x/cmake-build-debug/deps/lua/CMakeFiles/lua.dir
